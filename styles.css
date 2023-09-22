@@ -14,6 +14,14 @@ p {
   height: auto;
 }
 
+#my-image { 
+ max-width: 7%;
+ height: auto;
+ padding-right: 500px; 
+} 
+
+
+
 a:link {
   color: white;
 }
