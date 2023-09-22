@@ -15,11 +15,10 @@ p {
 }
 
 #my-image { 
- max-width: 7%;
+ max-width: 4%;
  height: auto;
- padding-right: 500px; 
+ padding-right: 1000px; 
 } 
-
 
 
 a:link {
