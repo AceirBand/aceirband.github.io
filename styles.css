@@ -17,9 +17,13 @@ p {
 #my-image { 
  max-width: 4%;
  height: auto;
- padding-right: 50vw; 
+; 
 } 
 
+#usphoto {
+	max-width: 50%;
+	height: auto;
+	}
 
 a:link {
   color: white;
